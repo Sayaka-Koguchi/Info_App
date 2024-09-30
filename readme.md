@@ -12,5 +12,5 @@ GasからwebhookでPHPへリクエストし、SpreadSheetとデータベース�
 - GAS: Rev_Gmail Data（中間発表時のものを使用しているためNotion連携のスクリプトも記述されています）
 
 
-  - GAS/SpreadSheet. [URL https://docs.google.com/spreadsheets/d/13OpeKXCe9GXL44yIXjEFL2dLXAdXDcedeLKqqdAj9oM/edit?usp=sharing]
-  - 2. [URL をここに記入]
+  - 1. SpreadSheet. [URL https://docs.google.com/spreadsheets/d/13OpeKXCe9GXL44yIXjEFL2dLXAdXDcedeLKqqdAj9oM/edit?usp=sharing]
+  - 2. GAS [URL https://script.google.com/u/0/home/projects/12NtCzxQrxZlluGzCtVm9NQxDONTMoFsQd9EYRiewpTGLOlcQEX2GXuRi/edit]
